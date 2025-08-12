@@ -16,7 +16,10 @@ LED Display & Buzzer – Real-time visual and audio alerts.
 
 Blynk App – Remote data access, threshold control, and notifications.
 
+
+
 🚀 Features
+
 Real-time TDS Monitoring with instant data updates.
 
 Water Depth Measurement using a sonar sensor for calibration.
@@ -29,7 +32,10 @@ Threshold Alerts via buzzer and push notifications.
 
 Low-cost, Scalable, and Easy-to-Deploy system.
 
+
+
 🛠️ Components Used
+
 TDS Sensor Module
 
 Ultrasonic/Sonar Sensor
@@ -44,7 +50,10 @@ Power Adapter
 
 Blynk IoT Platform
 
+
+
 📊 Working Principle
+
 TDS Sensor detects dissolved solids concentration in water.
 
 Sonar Sensor measures water depth to improve TDS reading accuracy.
@@ -55,10 +64,10 @@ LED Display shows live TDS readings, while buzzer alerts when levels exceed safe
 
 Blynk App enables remote monitoring, threshold setting, and notifications.
 
-📷 System Architecture
-(Insert system diagram image here – sensors → NodeMCU → Wi-Fi → Blynk App)
+
 
 📦 Applications
+
 🌱 Agriculture – Monitoring irrigation water quality.
 
 🐟 Aquaculture – Maintaining optimal water conditions for fish farms.
